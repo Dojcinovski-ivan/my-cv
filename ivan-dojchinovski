@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ivan Dojchinovski - CV</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="profile-pic">
+                <img src="your-photo.jpg" alt="Ivan Dojchinovski">
+            </div>
+            <h1>Ivan Dojchinovski</h1>
+            <p>Senior Performance Marketing Manager - Paid Social</p>
+            <p>Berlin, Germany</p>
+            <div class="contact-info">
+                <p>Email: <a href="mailto:ivan.dojcinovski@outlook.com">ivan.dojcinovski@outlook.com</a></p>
+                <p>Phone: 017624775764</p>
+                <p>LinkedIn: <a href="https://www.linkedin.com/in/ivan-dojcinovski-48319648/" target="_blank">linkedin.com/in/ivan-dojcinovski-48319648</a></p>
+                <p>Medium: <a href="https://medium.com/@ivandojcinovski_18515" target="_blank">medium.com/@ivandojcinovski_18515</a></p>
+            </div>
+        </header>
+
+        <main>
+            <section class="profile">
+                <h2>Profile</h2>
+                <p>Everything digital. Driving digital growth with passion.</p>
+            </section>
+
+            <section class="experience">
+                <h2>Employment History</h2>
+                <div class="job">
+                    <h3>Senior Performance Marketing Manager - Paid Social at Babbel</h3>
+                    <p>May 2021 — Present | Berlin</p>
+                    <ul>
+                        <li>Campaign setup and optimisation on Paid Social Channels: Meta, X, Snapchat, Pinterest, TikTok, and Reddit</li>
+                        <li>Using Smartly as a tool for creating sizable campaigns with heavy usage of DLO</li>
+                        <li>Implementation of CDP use cases (using Tealium) and discovering new possibilities within the ecosystem</li>
+                        <li>Landing page production using Unbounce and Contentful</li>
+                        <li>Project management for the CDP project within the paid digital channels</li>
+                    </ul>
+                </div>
+                <div class="job">
+                    <h3>Account Manager at Colour Me Social</h3>
+                    <p>April 2017 — May 2021 | Skopje</p>
+                    <ul>
+                        <li>Campaign setup and optimisation on Paid Social Channels and SEM</li>
+                        <li>Reporting and split testing new ideas in collaboration with clients</li>
+                        <li>Landing page production and design using Unbounce</li>
+                        <li>Content writing and creative asset production for live campaigns</li>
+                        <li>Data mining on LinkedIn and cold email outreach</li>
+                    </ul>
+                </div>
+                <div class="job">
+                    <h3>Social Media Marketing Manager - Part Time at Excio Image Library</h3>
+                    <p>January 2018 — February 2022 | Skopje</p>
+                    <ul>
+                        <li>Developing and implementing content strategy for social media accounts</li>
+                        <li>Copywriting and creative asset production</li>
+                        <li>Organic engagement growth and community management</li>
+                    </ul>
+                </div>
+            </section>
+
+            <section class="education">
+                <h2>Education</h2>
+                <div class="school">
+                    <h3>B.Sc. E - Business / Digital Marketing</h3>
+                    <p>Faculty of Economics - Ss. Cyril and Methodius - Skopje, Skopje | December 2008 — October 2012</p>
+                </div>
+                <div class="school">
+                    <h3>High School Diploma</h3>
+                    <p>Gymnasium - Goce Delcev, Kumanovo | September 2004 — June 2008</p>
+                </div>
+            </section>
+
+            <section class="courses">
+                <h2>Courses</h2>
+                <div class="course">
+                    <h3>Full Stack Web Dev</h3>
+                    <p>Brainster - Skopje | October 2019 — May 2020</p>
+                </div>
+            </section>
+
+            <section class="skills">
+                <h2>Skills</h2>
+                <ul>
+                    <li>Paid Social Marketing</li>
+                    <li>Smartly</li>
+                    <li>Contentful</li>
+                    <li>Unbounce</li>
+                    <li>Tableau</li>
+                    <li>Tealium</li>
+                    <li>SQL</li>
+                </ul>
+            </section>
+
+            <section class="languages">
+                <h2>Languages</h2>
+                <ul>
+                    <li>English</li>
+                    <li>German</li>
+                    <li>Macedonian</li>
+                </ul>
+            </section>
+        </main>
+
+        <footer>
+            <p>&copy; 2024 Ivan Dojchinovski. All rights reserved.</p>
+        </footer>
+    </div>
+</body>
+</html>
